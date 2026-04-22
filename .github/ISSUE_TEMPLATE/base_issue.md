@@ -1,7 +1,7 @@
 ---
-name: 기능 개발
-about: 새로운 기능을 개발합니다.
-title: "[기능 추가]"
+name: 이슈
+about: 이슈를 생성합니다.
+title: "[Feat] "
 labels: ''
 assignees: ''
 ---
