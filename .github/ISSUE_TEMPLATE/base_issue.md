@@ -1,5 +1,5 @@
 ---
-name: 이슈
+name: 이슈 추가
 about: 이슈를 생성합니다.
 title: "[Feat] "
 labels: ''
