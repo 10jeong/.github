@@ -8,7 +8,6 @@ reviews:
   poem: false
   review_status: true
   review_details: false
-  # 수석 엔지니어의 깐깐함을 유지하기 위해 도구 활성화
   tools:
     ast-grep:
       enabled: true
@@ -18,7 +17,6 @@ auto_review:
   drafts: false   
   base_branches:
     - "dev"
-    - "main" # 필요시 추가
 
 path_filters:
   - "!build/**"
